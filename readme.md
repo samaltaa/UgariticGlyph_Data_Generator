@@ -48,7 +48,6 @@ Custom Ugaritic fonts simulate authentic tablet inscriptions
 - Simulated erosion and wear
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x100" alt="Augmentation Examples">
   <br>
   <i>Examples of augmentation techniques applied to glyphs</i>
 </div>
