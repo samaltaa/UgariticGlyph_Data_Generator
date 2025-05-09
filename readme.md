@@ -122,9 +122,9 @@ Contributions welcome! Fork the repository and submit a pull request to help imp
 <div align="center">
   <span style="color:#CD853F"><i>The past and future intertwine—one glyph at a time.</i></span>
   <br><br>
-  <img src="https://archaeology.org/wp-content/uploads/2021/06/Ugarit-Baal-Stela-short.jpg" alt="Ugaritic Tablet Sample">
+  <img src="https://archaeology.org/wp-content/uploads/2021/06/Ugarit-Baal-Stela-short.jpg" alt="Ugaritic Tablet Sample" height="300" width="300">
   <br>
-  <i>Sample Ugaritic tablet with transliteration</i>
+  <i>Stone Carving of Baal</i>
   <br><br>
   <span style="color:#996633">❝This project represents years of fascination with both computational vision algorithms and the mysteries of ancient Near Eastern languages—a personal quest to preserve humanity's linguistic heritage through code.❞</span>
 </div>
