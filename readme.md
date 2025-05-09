@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="assets/seal.png" alt="Ugaritic Cuneiform Icon" width="100" height="100"/>
+<img src="assets/seal.png" alt="Ugaritic Cuneiform Icon" width="300" height="300"/>
 
   
   ### <span style="color:#CD853F">"Bridging ancient script and modern technology"</span>
