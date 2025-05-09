@@ -122,7 +122,7 @@ Contributions welcome! Fork the repository and submit a pull request to help imp
 <div align="center">
   <span style="color:#CD853F"><i>The past and future intertwine—one glyph at a time.</i></span>
   <br><br>
-  <img src="https://archaeology.org/wp-content/uploads/2021/06/Ugarit-Baal-Stela-short.jpg" alt="Ugaritic Tablet Sample" height="300" width="300">
+  <img src="https://archaeology.org/wp-content/uploads/2021/06/Ugarit-Baal-Stela-short.jpg" alt="Ugaritic Tablet Sample" height="500" width="300">
   <br>
   <i>Stone Carving of Baal</i>
   <br><br>
