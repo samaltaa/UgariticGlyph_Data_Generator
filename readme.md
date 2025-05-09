@@ -11,7 +11,9 @@
 
 ## <span style="color:#A0522D">🏛️ Overview</span>
 <br>
+<div align="center">
 <img src="assets/slabs.png" alt="Ugaritic Slabs" width="300" height="300">
+</div>
 <br>
 
 This repository contains a **synthetic data generator** for **Ugaritic cuneiform** images, enabling OCR systems to transliterate this ancient script into Latin characters. This foundational work supports the **digitization** of Ugaritic tablets, critical artifacts from the 14th century BCE Near East.
