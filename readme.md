@@ -67,12 +67,12 @@ Python 3.x | Pillow | NumPy | imgaug | OpenCV (optional)
 - Build accessible tools for the small but dedicated community of Ugaritic scholars
 
 <div align="center">
-  <img src="https://via.placeholder.com/500x100" alt="Vision timeline">
+  
   <br>
   <i>Bridging my twin obsessions: computer vision algorithms and ancient Near Eastern linguistics</i>
 </div>
 
-<span style="color:#A0522D">📊 Output Examples</span>
+## <span style="color:#A0522D">📊 Output Examples</span>
 <div align="center">
   <p><span style="color:#CD853F">Generated samples demonstrating the variety of synthetic Ugaritic glyphs</span></p>
   <table>
@@ -118,13 +118,13 @@ Contributions welcome! Fork the repository and submit a pull request to help imp
 <div align="center">
   <span style="color:#CD853F"><i>The past and future intertwine—one glyph at a time.</i></span>
   <br><br>
-  <img src="https://via.placeholder.com/400x200" alt="Ugaritic Tablet Sample">
+  <img src="https://archaeology.org/wp-content/uploads/2021/06/Ugarit-Baal-Stela-short.jpg" alt="Ugaritic Tablet Sample">
   <br>
   <i>Sample Ugaritic tablet with transliteration</i>
   <br><br>
   <span style="color:#996633">❝This project represents years of fascination with both computational vision algorithms and the mysteries of ancient Near Eastern languages—a personal quest to preserve humanity's linguistic heritage through code.❞</span>
 </div>
 
-<div align="right">
+<div align="center">
   <span style="color:#8B4513">Licensed under MIT</span>
-</div># UgariticGlyph_Data_Generator
+</div>
