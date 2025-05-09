@@ -6,8 +6,8 @@
 
   
   ### <span style="color:#CD853F">"Bridging ancient script and modern technology"</span>
-  
-  ![-----------------------------------------------------](assets/slabs.png)
+  <br>
+  <img src="assets/slabs.png" alt="Ugaritic Slabs" width="300" height="300">
 </div>
 
 ## <span style="color:#A0522D">🏛️ Overview</span>
